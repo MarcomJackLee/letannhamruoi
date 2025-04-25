@@ -5,3 +5,6 @@ chromadb
 sentence-transformers
 langchain-community
 pydantic
+flask
+gunicorn
+uvicorn
